@@ -1,0 +1,1 @@
+# UMLProfile4MessagingPatterns
