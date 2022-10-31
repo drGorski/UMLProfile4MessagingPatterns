@@ -26,10 +26,12 @@ Navigate to: [Pub-Sub Patterns](https://zguide.zeromq.org/docs/chapter5/)
 
 ## Research work patterns
 
-There have been declared and added patterns being the result of current research work: ``SyncSaga``, ``ResilientPublishSubscribe``, nad ``PairwisePublishSubscribe``.
+There have been declared and added patterns being the result of current research work: ``Saga for Synchronized Commits``, ``Resilient Publish-Subscribe``, ``Pairwise Publish-Subscribe``, and ``Separate Publish-Subscribe``.
 
-Navigate to: [SyncSaga](https://doi.org/10.3390/app12126242)
+Navigate to: [Saga for Synchronized Commits](https://doi.org/10.3390/app12126242)
 
-Navigate to: [ResilientPublishSubscribe](https://doi.org/10.3390/computers11080118)
+Navigate to: [Resilient Publish-Subscribe](https://doi.org/10.3390/computers11080118)
 
-Navigate to: [PairwisePublishSubscribe](https://doi.org/10.1109/ACCESS.2020.3038921)
+Navigate to: [Pairwise Publish-Subscribe](https://doi.org/10.1109/ACCESS.2020.3038921)
+
+Navigate to: [Separate Publish-Subscribe](https://doi.org/10.1016/j.future.2022.02.013)
