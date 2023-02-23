@@ -6,7 +6,7 @@ Messaging patterns have been described with the stereotypes of the Unified Model
 
 ## Enterprise Integration Patterns
 
-The profile includes 77 Enterprise Integration Patterns following Hohpe and Woolf.
+The profile includes Enterprise Integration Patterns following Hohpe and Woolf.
 
 Navigate to: [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html)
 
